@@ -143,5 +143,3 @@ pandas · numpy · matplotlib · seaborn · scikit-learn · xgboost · optuna ·
 ```
 
 ---
-
-*Proyecto desarrollado como ejercicio práctico de Machine Learning — Data Science Bootcamp, junio 2026.*
